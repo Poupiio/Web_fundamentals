@@ -1,3 +1,4 @@
-ib cegos Day 1
+# ib cegos - POEC Java
 
-Exercice 1
+## Day 1 - Fondamentaux du web
+### Exercice 1 - Schématisation d'Internet et ses services
