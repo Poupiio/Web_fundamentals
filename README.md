@@ -6,3 +6,4 @@
 ### Exercice 3 - Codes de réponse HTTP
 ### Exercice 4 - Utiliser la commande "nslookup"
 ### Exercice 5 - Bases de données
+### Exercice 6 - Métiers du web
