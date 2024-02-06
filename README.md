@@ -1,6 +1,6 @@
 # ib cegos - POEC Java
 
-## Day 1 - Fondamentaux du web
+## Fondamentaux du web
 ### [Exercice 1](schéma_internet.pdf) - Schématisation d'Internet et ses services
 ### [Exercice 2](protocoles_ports.png) - Protocoles et ports par défaut
 ### [Exercice 3](codes_reponses.drawio.png) - Codes de réponse HTTP
