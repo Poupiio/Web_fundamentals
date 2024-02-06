@@ -6,4 +6,4 @@
 ### [Exercice 3](codes_reponses.drawio.png) - Codes de réponse HTTP
 ### [Exercice 4](exercice4.md) - Utiliser la commande "nslookup"
 ### [Exercice 5](bdd.drawio.png) - Bases de données
-### [Exercice 6](Exercice 6.md) - Métiers du web
+### [Exercice 6](exercice_6.md) - Métiers du web
