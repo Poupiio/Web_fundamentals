@@ -1,4 +1,4 @@
-# `rgb(9, 105, 218)` 1. Lister les compétences primodiales de chaque métier du web :
+# <span style="color:blue">1. Lister les compétences primodiales de chaque métier du web : </span>
 • Marketing :
 Être à l'aise autant avec le travail en équipe qu'en autonomie
 Très bonne expression écrite et orale
