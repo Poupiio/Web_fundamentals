@@ -70,14 +70,14 @@ Mise à disposition d'une API pour les développeurs (Chess.com Developer Commun
 
 
 # 3. Former la meilleure équipe de 10 personnes pour développer chess.com
-Chef de projet : Guillaume Godart (Chef de projet, Consultant IT - 550€/jour)
-UI/UX Designer : Julia Urquijo (500€/jour)
-Graphiste : Eléa Sanz (280€/jour)
-Lead dev : Timothée Malard (CTO / Tech Lead / Lead dev / Node.js / typescript - 1200€/jour)
-Développeur front : Benjamin Mechenet (Javascript et React - 250€/jour)
-Développeur back : Olivier Mathé (Développeur Java Back-end - Spring - 500€/jour)
-Data analyst : Christelle Baudrin-Amoyal (Web analytics Expert - Data Analyst - 650€/jour)
-Data scientist : William Steven (Data Scientist | Data Analyst | IA | Python - 550€/jour)
-Développeur application mobile : Mickael Romaniello (Développeur Android et iOS - 500€/jour)
-Administrateur système et réseaux : Rémi Dumez (Administrateur Systèmes & Réseaux - 430€/jour)
+* Chef de projet : Guillaume Godart (Chef de projet, Consultant IT - 550€/jour)
+* UI/UX Designer : Julia Urquijo (500€/jour)
+* Graphiste : Eléa Sanz (280€/jour)
+* Lead dev : Timothée Malard (CTO / Tech Lead / Lead dev / Node.js / typescript - 1200€/jour)
+* Développeur front : Benjamin Mechenet (Javascript et React - 250€/jour)
+* Développeur back : Olivier Mathé (Développeur Java Back-end - Spring - 500€/jour)
+* Data analyst : Christelle Baudrin-Amoyal (Web analytics Expert - Data Analyst - 650€/jour)
+* Data scientist : William Steven (Data Scientist | Data Analyst | IA | Python - 550€/jour)
+* Développeur application mobile : Mickael Romaniello (Développeur Android et iOS - 500€/jour)
+* Administrateur système et réseaux : Rémi Dumez (Administrateur Systèmes & Réseaux - 430€/jour)
 
