@@ -40,7 +40,7 @@
 * Être à l'aise autant avec le travail en équipe qu'en autonomie
 * Compétences en mentorat
 * Communication et leadership
-* Expertise <span style="color: red;">technique</span>
+* Expertise technique
 
 
 # 2. Lister 10 fonctionnalités front-end et 10 fonctionnalités back-end de chess.com
