@@ -80,4 +80,5 @@
 * Data scientist : William Steven (Data Scientist | Data Analyst | IA | Python - 550€/jour)
 * Développeur application mobile : Mickael Romaniello (Développeur Android et iOS - 500€/jour)
 * Administrateur système et réseaux : Rémi Dumez (Administrateur Systèmes & Réseaux - 430€/jour)
+### Correction : Enlever graphiste, data analyst, data scientist et dev appli pour remplacer par un SCRUM Master, 2 dev (1 front, 1 back)
 
