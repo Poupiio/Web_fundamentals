@@ -1,72 +1,72 @@
 # 1. Lister les compétences primodiales de chaque métier du web :
 • Marketing :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Très bonne expression écrite et orale
-Connaissance des outils d'analyses (SEO, médias sociaux...)
-Compréhension des besoins du marché
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Très bonne expression écrite et orale
+* Connaissance des outils d'analyses (SEO, médias sociaux...)
+* Compréhension des besoins du marché
 
 • Tests :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Rigueur
-Compréhension des exigences afin de concevoir des tests pertinents
-Capacité à communiquer efficacement et clairement les bugs rencontrés
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Rigueur
+* Compréhension des exigences afin de concevoir des tests pertinents
+* Capacité à communiquer efficacement et clairement les bugs rencontrés
 
 • Produit :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Communication et leadership
-Capacité à définir et à suivre un budget ainsi qu'un calendrier (chef de projet)
-Compréhension des méthodologies de gestion de projet (SCRUM, Agile, Waterfall, ...)
-Compétences en documentation (rédaction de cahier des charges...)
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Communication et leadership
+* Capacité à définir et à suivre un budget ainsi qu'un calendrier (chef de projet)
+* Compréhension des méthodologies de gestion de projet (SCRUM, Agile, Waterfall, ...)
+* Compétences en documentation (rédaction de cahier des charges...)
 
 • Design :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Maîtrise des outils de conception et de prototypage (Figma, Adobe XD...)
-Connaissance des tendances (niveau design) et des meilleures pratiques en matière d'accessibilité
-Connaissances des principes UI/UX
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Maîtrise des outils de conception et de prototypage (Figma, Adobe XD...)
+* Connaissance des tendances (niveau design) et des meilleures pratiques en matière d'accessibilité
+* Connaissances des principes UI/UX
 
 • Data :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Compétences analytiques pour interpréter les données et les tendances du marché
-Compétences en modélisation de données et en prévision pour évaluer les performances et prévoir les résultats
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Compétences analytiques pour interpréter les données et les tendances du marché
+* Compétences en modélisation de données et en prévision pour évaluer les performances et prévoir les résultats
 
 • Rédaction :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Très bonne expression écrite
-Connaissance des principes de base du SEO
-Polyvalence sur les sujets abordés
-Capacité à s'adapter au ton et au style de chaque client
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Très bonne expression écrite
+* Connaissance des principes de base du SEO
+* Polyvalence sur les sujets abordés
+* Capacité à s'adapter au ton et au style de chaque client
 
 • Equipe :
-Être à l'aise autant avec le travail en équipe qu'en autonomie
-Compétences en mentorat
-Communication et leadership
-Expertise technique 
+* Être à l'aise autant avec le travail en équipe qu'en autonomie
+* Compétences en mentorat
+* Communication et leadership
+* Expertise technique 
 
 
 # 2. Lister 10 fonctionnalités front-end et 10 fonctionnalités back-end de chess.com
 ## FRONT
-Fonctionnalité de changement de langue du site
-Fonctionnalité de changement de mode (sombre/clair)
-Déplacement des pions
-Génération de popup
-Footer (redirection vers réseaux sociaux, FAQ, liens utiles...)
-Nav bar
-Personnalisation du plateau
-Stream
-Blog
-Plateforme d'apprentissage
+* Fonctionnalité de changement de langue du site
+* Fonctionnalité de changement de mode (sombre/clair)
+* Déplacement des pions
+* Génération de popup
+* Footer (redirection vers réseaux sociaux, FAQ, liens utiles...)
+* Nav bar
+* Personnalisation du plateau
+* Stream
+* Blog
+* Plateforme d'apprentissage
 
 ## BACK
-Connexion / Inscription
-eShop
-Barre de recherche
-Jeu multijoueur en ligne
-Gestion des offres payantes
-Analyses basées sur les parties d'un joueur
-Administration du blog
-Gestion des profils utilisateurs
-Gestion du chat en ligne
-Mise à disposition d'une API pour les développeurs (Chess.com Developer Community)
+* Connexion / Inscription
+* eShop
+* Barre de recherche
+* Jeu multijoueur en ligne
+* Gestion des offres payantes
+* Analyses basées sur les parties d'un joueur
+* Administration du blog
+* Gestion des profils utilisateurs
+* Gestion du chat en ligne
+* Mise à disposition d'une API pour les développeurs (Chess.com Developer Community)
 
 
 # 3. Former la meilleure équipe de 10 personnes pour développer chess.com
