@@ -4,6 +4,6 @@
 ### [Exercice 1](schéma_internet.pdf) - Schématisation d'Internet et ses services
 ### [Exercice 2](protocoles_ports.png) - Protocoles et ports par défaut
 ### [Exercice 3](codes_reponses.drawio.png) - Codes de réponse HTTP
-### Exercice 4 - Utiliser la commande "nslookup"
-### Exercice 5 - Bases de données
-### Exercice 6 - Métiers du web
+### [Exercice 4](exercice4.md) - Utiliser la commande "nslookup"
+### [Exercice 5](bdd.drawio.png) - Bases de données
+### [Exercice 6](Exercice 6.md) - Métiers du web
